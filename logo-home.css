@@ -63,7 +63,7 @@ header h1 {
   text-shadow: 0 2px 8px rgba(255, 255, 255, 0.15);
   text-align: center;
   position: relative;
-  left: -5px; /* Fine-tune horizontal positioning */
+  left: -1px; /* Fine-tune horizontal positioning */
   right: 30px; /* Fine-tune horizontal positioning */
   flex-grow: 1;
 }
@@ -310,3 +310,4 @@ main {
     padding: 70px 10px 10px 10px;
   }
 }
+
